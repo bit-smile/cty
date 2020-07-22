@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+/ Welcome to bit-smile Pages
 
-You can use the [editor on GitHub](https://github.com/bit-smile/cty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here is where I used to collect articles wrote before. And is still under maintenance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+/ Politics
 
-### Markdown
+.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+/ Books
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +28,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bit-smile/cty.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe class="lc-margin-top-80 lc-margin-bottom-32 lc-mobile" data-v-b66e9a5a="" frameborder="0" src="https://button.like.co/in/embed/jamesc77601/button?referrer=https://bit-smile.github.io/cty/.html&amp;" style="font-size: medium;" ></iframe>
